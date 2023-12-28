@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "DMSans";
+    src: url("DMSans-Regular.ttf") format('truetype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "DMSans";
+    src: url("DMSans_18pt-Bold.ttf") format('truetype');
+    font-weight: 700;
+}
