@@ -22,7 +22,7 @@
 
 .main {
   max-width: 1080px;
-  background-image: url("/public/WorldMap.png");
+  background-image: url("/WorldMap.png");
   background-repeat: no-repeat;
   background-size: contain;
   margin: 0 auto;

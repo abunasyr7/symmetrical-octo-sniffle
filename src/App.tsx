@@ -1,9 +1,9 @@
 import "./App.css";
-import Egypt from "../public/Egypt.svg";
-import France from "../public/France.svg";
-import USA from "../public/USA.svg";
-import Greenland from "../public/Greenland.svg";
-import Japan from "../public/Japan.svg";
+import Egypt from "./assets/images/Egypt.svg";
+import France from "./assets/images/France.svg";
+import USA from "./assets/images/USA.svg";
+import Greenland from "./assets/images/Greenland.svg";
+import Japan from "./assets/images/Japan.svg";
 
 const arrayOfObject = [
   {
